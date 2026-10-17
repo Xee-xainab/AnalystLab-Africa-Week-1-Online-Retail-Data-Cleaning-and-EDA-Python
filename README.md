@@ -27,8 +27,9 @@ Raw transaction logs contain missing values, duplicates, returns and pricing err
 ### Cleaned dataset and Raw Dataset 
 
 The raw and cleaned file (`OnlineRetail_Cleaned.csv`, 524,878 rows) is too large for GitHub.
-Download it here: Dataset-**https://drive.google.com/file/d/1AbG2DAKokA0TcPlouOEnHUeY831n3bl6/view?usp=sharing**
-                  Cleaned Datset-**https://drive.google.com/file/d/1NwQxGdlM5iaLWJHW5r9IplJe1u_luxmz/view?usp=drive_link**
+Download it here: 
+- Dataset:**https://drive.google.com/file/d/1AbG2DAKokA0TcPlouOEnHUeY831n3bl6/view?usp=sharing**
+- Cleaned Datset:**https://drive.google.com/file/d/1NwQxGdlM5iaLWJHW5r9IplJe1u_luxmz/view?usp=drive_link**
 
 ## Data Cleaning
 
