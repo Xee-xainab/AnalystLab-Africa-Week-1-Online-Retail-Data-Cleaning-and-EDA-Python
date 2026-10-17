@@ -51,7 +51,7 @@ Download it here:
 1. **UK dependence:** The UK generated about £9.00M, over 30 times the next market (Netherlands, £285K), because sales are overwhelmingly domestic.
 2. **Strong seasonality:** Revenue peaked at £1.50M in November 2011, nearly three times February's £523K, as holiday gifting demand built from September.
 3. **Gifting and décor lead demand:** Paper Craft, Little Birdie sold the most units (80,995) and White Hanging Heart T-Light Holder appeared in the most orders (2,311), reflecting a gift-led product mix.
-4. **Concentrated customer spend:** The top 10 identified customers contributed about £1.54M, led by customer 14646 at £280K, because a small group of repeat or bulk buyers carries a large share of identified sales.
+4. **Concentrated customer spend:** Customer 14646 spent the most (£280K) and the top 10 identified customers contributed about £1.54M, so spending is concentrated in a few high-value accounts.
 5. **Cleaning protected accuracy:** Removing only 3.14% of rows eliminated returns, duplicates and zero-price lines that would have distorted every metric above.
 
 ## Recommendations
